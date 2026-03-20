@@ -1,0 +1,6 @@
+__pycache__/
+.env
+temp_dir/
+pdfs/
+*.pdf
+.DS_Store
